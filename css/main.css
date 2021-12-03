@@ -415,6 +415,13 @@ body {
   }
 }
 
+@media screen and (max-width: 768px) {
+  .visual-box img {
+    width: 50vw;
+    height: auto;
+  }
+}
+
 /* // Visual */
 
 /* Story */
