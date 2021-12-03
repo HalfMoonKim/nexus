@@ -116,6 +116,17 @@ body {
   text-align: center;
 }
 
+@media screen and (max-width: 768px) {
+  .modal-cont {
+    width: 40rem;
+    height: 30rem;
+  }
+
+  .modal-cont p {
+    font-size: 17px;
+  }
+}
+
 /* // Modal Window */
 
 .wrap {
